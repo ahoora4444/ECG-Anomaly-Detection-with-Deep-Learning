@@ -1,0 +1,7 @@
+[project]
+name = "ecg-anomaly-detection-with-deep-learning"
+version = "0.1.0"
+description = "Automated ECG anomaly detection using deep learning to assist early diagnosis of cardiac conditions. Trained and evaluated on real-world clinical datasets."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
